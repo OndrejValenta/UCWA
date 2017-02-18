@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCWA.TestConsole", "UCWA.TestConsole\UCWA.TestConsole.csproj", "{FC79EBDC-150F-4B4F-AA28-F728C819AFEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCWA.Provider", "UCWA.Provider\UCWA.Provider.csproj", "{DA8E3B25-3986-44E8-94A0-5D4ED189FD38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FC79EBDC-150F-4B4F-AA28-F728C819AFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC79EBDC-150F-4B4F-AA28-F728C819AFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC79EBDC-150F-4B4F-AA28-F728C819AFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8E3B25-3986-44E8-94A0-5D4ED189FD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8E3B25-3986-44E8-94A0-5D4ED189FD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8E3B25-3986-44E8-94A0-5D4ED189FD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8E3B25-3986-44E8-94A0-5D4ED189FD38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
